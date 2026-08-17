@@ -1,2 +1,4 @@
-ndream'n now 🪶
-shipping at http://counterforme.com/labs
+# ndream'n now 🪶
+
+**[counterforme.com/labs](http://counterforme.com/labs)**
+
